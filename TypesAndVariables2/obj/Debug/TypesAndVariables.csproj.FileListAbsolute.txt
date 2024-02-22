@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\bin\Debug\TypesAndVariables2.exe.config
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\bin\Debug\TypesAndVariables2.exe
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\bin\Debug\TypesAndVariables2.pdb
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\obj\Debug\TypesAndVariables2.exe
+C:\Users\ASUS\source\repos\CSharpCourse\TypesAndVariables2\obj\Debug\TypesAndVariables2.pdb
